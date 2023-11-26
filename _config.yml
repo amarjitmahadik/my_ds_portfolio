@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Amarjit Mahadik </p>
+logo: assets/img/Photo (1).jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/amarjit-mahadik-9583b37">LinkedIn</a> |
+  <a href="https://github.com/amarjitmahadik">GitHub</a>
+  
+  <br>   
+  I'm learning Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Possessing nearly 2 decades of extensive experience in driving digital transformation initiatives, leading transformative tech projects
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
